@@ -1,6 +1,5 @@
 import time
 import tkinter as tk
-import tkinter.messagebox
 
 #window set up
 root = tk.Tk() 
